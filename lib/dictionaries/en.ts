@@ -150,13 +150,11 @@ const dict: Dictionary = {
     infoLinks: [
       { label: "Manifesto", href: "#manifesto" },
       { label: "Craft", href: "#craft" },
-      { label: "Contact", href: "#" },
+      { label: "Contact", href: "https://www.instagram.com/freedominside.ua" },
     ],
     followHeading: "FOLLOW",
     followLinks: [
-      { label: "Instagram", href: "#" },
-      { label: "Telegram", href: "#" },
-      { label: "Contact", href: "#" },
+      { label: "Instagram", href: "https://www.instagram.com/freedominside.ua" },
     ],
     bottomLeft: "© 2026 FREEDOM INSIDE, KYIV",
     bottomRight: "ONE CAP. MADE PROPERLY.",

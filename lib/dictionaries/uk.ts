@@ -150,13 +150,11 @@ const dict: Dictionary = {
     infoLinks: [
       { label: "Маніфест", href: "#manifesto" },
       { label: "Крафт", href: "#craft" },
-      { label: "Контакти", href: "#" },
+      { label: "Контакти", href: "https://www.instagram.com/freedominside.ua" },
     ],
     followHeading: "СОЦМЕРЕЖІ",
     followLinks: [
-      { label: "Instagram", href: "#" },
-      { label: "Telegram", href: "#" },
-      { label: "Контакти", href: "#" },
+      { label: "Instagram", href: "https://www.instagram.com/freedominside.ua" },
     ],
     bottomLeft: "© 2026 FREEDOM INSIDE, КИЇВ",
     bottomRight: "ОДНА КЕПКА. ЗРОБЛЕНА ЯК СЛІД.",
