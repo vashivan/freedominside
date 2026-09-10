@@ -77,7 +77,7 @@ export default async function Home({ params }: { params: { locale: string } }) {
           </Reveal>
           <RevealImage className="zine-photo" overlay={<div className="tape" />}>
             <Image
-              src="/assets/img12.JPG"
+              src="/assets/img12.jpg"
               alt={dict.manifesto.photoAlt}
               fill
               sizes="40vw"
